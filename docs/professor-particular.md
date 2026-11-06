@@ -1,14 +1,15 @@
 # Professor Particular — Preparação para Engenharia Reversa
 
-## Perfil e objetivo
+## Perfil e objetivos
 
 - Sistema: Arch Linux.
 - Base: terminal Linux e programação introdutória.
 - Em início de C e conceitos de baixo nível.
 - Disponibilidade: aproximadamente 2 horas por dia, durante 4 dias.
-- Objetivo: acompanhar um curso introdutório de Engenharia Reversa e Exploração de Binários iniciado em 09/11/2026.
+- Objetivo 1: apoiar os estudos da UTFPR, especialmente a disciplina de Linhas de Comando e Terminal, praticando Linux e C.
+- Objetivo 2: acompanhar um curso introdutório de Engenharia Reversa e Exploração de Binários iniciado em 09/11/2026.
 
-Não presumir domínio de ponteiros, gerenciamento de memória, Assembly ou arquitetura.
+Não presumir domínio de ponteiros, gerenciamento de memória, Assembly ou arquitetura. Relacione os conceitos de C e baixo nível aos comandos e ferramentas do terminal quando isso ajudar a compreensão.
 
 ## Cronograma
 

@@ -1,6 +1,6 @@
 # Engenharia Reversa — Fundamentos
 
-Repositório público de estudo para preparação em C, memória, arquitetura x86-64, Assembly e introdução à engenharia reversa de binários ELF no Linux.
+Repositório público com dois objetivos complementares: apoiar meus estudos na UTFPR, especialmente na disciplina de Linhas de Comando e Terminal com C, e preparar minha base para um curso introdutório de Engenharia Reversa e Exploração de Binários.
 
 ![Status](https://img.shields.io/badge/status-em%20estudo-blue)
 ![Linux](https://img.shields.io/badge/Linux-Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
@@ -12,9 +12,17 @@ Repositório público de estudo para preparação em C, memória, arquitetura x8
   <b>Aprender a enxergar o que acontece por baixo do código.</b>
 </p>
 
-## Objetivo
+## Objetivos
 
-Construir fundamentos suficientes para acompanhar um curso introdutório de engenharia reversa e exploração de binários, sempre com exemplos locais, pequenos e educativos.
+### UTFPR — Linhas de Comando e Terminal
+
+Praticar o uso do terminal Linux, compilação, execução, organização de arquivos, processos, permissões e automação básica, usando programas pequenos escritos em C.
+
+### Curso introdutório de Engenharia Reversa
+
+Construir fundamentos de C, memória, arquitetura x86-64, Assembly e análise de binários ELF, sempre com exemplos próprios, locais e educativos.
+
+Os dois caminhos se complementam: o terminal e o C formam a base prática para compreender como programas são compilados, executados e analisados.
 
 ## Método de estudo
 
