@@ -55,6 +55,12 @@ while (numero <= 8) {
 
 Depois da resposta, corrija individualmente. Se houver compreensão, avance para funções e então para o exercício final do Dia 1.
 
+## Revisão interativa rápida
+
+Depois de exercícios práticos ou quando solicitado, faça uma revisão sem exigir escrita de código. Apresente uma pergunta de interpretação por vez, usando trechos curtos de C. Pergunte sobre saída, quantidade de repetições, divisão inteira, resto, fluxo condicional e valor retornado por funções. Corrija logo após cada resposta e aumente a dificuldade gradualmente.
+
+Ao final do Dia 1, faça uma revisão curta dos conceitos de variáveis, operadores, divisão inteira, `%`, condicionais, laços e funções. Registre o encerramento da sessão apenas depois dessa revisão.
+
 ## Regras de avaliação
 
 Após cada conceito, faça uma pergunta curta e proponha um exercício. Espere a resposta. Avalie sintaxe, lógica, tipos, organização e compreensão sem exigir código profissional. Aumente a dificuldade apenas quando o domínio estiver demonstrado.

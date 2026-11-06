@@ -50,6 +50,10 @@ Os vídeos abaixo são referências de estudo. Não assista passivamente: pause,
 
 O estudo de terminal deve acompanhar os exercícios, mas não substituir o estudo dos conceitos centrais.
 
+## Revisão rápida sem escrever código
+
+O projeto também usa uma revisão interativa para consolidar o aprendizado. Nessa modalidade, são apresentados pequenos trechos de C e uma pergunta por vez sobre saída, repetições, operadores, tipos, condicionais e funções. A resposta é corrigida imediatamente, sem exigir a escrita de um novo programa.
+
 ## Método de estudo
 
 O estudo segue este ciclo:
