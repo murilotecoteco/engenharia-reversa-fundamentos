@@ -1,0 +1,12 @@
+# Binários e artefatos de compilação
+*.o
+*.out
+*.bin
+*.elf
+*.core
+core
+
+# Artefatos comuns de ferramentas
+.gdb_history
+compile_commands.json
+
