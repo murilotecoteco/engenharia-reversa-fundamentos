@@ -67,6 +67,22 @@ O professor particular não entrega a solução imediatamente. Ele faz uma pergu
 
 O ponto de retomada atual está registrado em [`docs/professor-particular.md`](docs/professor-particular.md).
 
+## Caderno de exercícios
+
+Cada sessão deve deixar um registro no repositório. A organização é feita por dia e por tema:
+
+```text
+exercicios/
+├── dia-01-c-fundamentos/
+│   ├── enunciado.md
+│   └── tentativas/
+├── dia-02-memoria-ponteiros/
+├── dia-03-arquitetura-assembly/
+└── dia-04-binarios/
+```
+
+As tentativas ficam guardadas mesmo quando contêm erros, porque elas mostram a evolução do raciocínio. As correções e conceitos duráveis ficam em `learning/`.
+
 ## Ferramentas
 
 O kit usa ferramentas locais do Linux: GCC, binutils (`file`, `strings`, `objdump`) e, opcionalmente, GDB. Não há dependências de runtime nem scripts obrigatórios para começar.
@@ -102,6 +118,10 @@ O VS Code recomenda as extensões C/C++ da Microsoft e GitHub Copilot/Copilot Ch
 - `exercicios/` — exercícios e pequenos programas produzidos durante o estudo.
 - `learning/` — registros duráveis de conceitos, erros e revisões.
 - `.vscode/` — recomendações de extensões, compilação e depuração com GDB.
+
+## Guia de uso: C e terminal Linux
+
+Para um roteiro simples de estudo focado em C e nos comandos essenciais do terminal Linux, consulte [`docs/guia-c-terminal.md`](docs/guia-c-terminal.md).
 
 ## Segurança e escopo
 
