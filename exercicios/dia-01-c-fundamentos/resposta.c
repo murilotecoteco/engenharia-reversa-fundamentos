@@ -7,16 +7,33 @@
 
 int numero1 = 0;
 int numero2 = 0;
-int soma(int numero1, int numero2){
-     int resultado = numero1 + numero2;
-     if(resultado %2 == 0 ){
-    printf("o resultado e par");
-} else { printf("o resultado e impar");
+
+int soma(int numero1, int numero2)
+{
+    int resultado = numero1 + numero2;
+
+    return resultado;
 }
-return resultado;
+
+int main()
+{
+    int resultado = 0;
+
+    scanf("%d", &numero1);
+    scanf("%d", &numero2);
+
+    resultado = soma(numero1, numero2);
+
+    printf("O resultado da soma e %d.\n", resultado);
+
+    if (resultado % 2 == 0)
+    {
+        printf("O resultado e par.\n");
+    }
+    else
+    {
+        printf("O resultado e impar.\n");
+    }
+
+    return 0;
 }
-int main(){
-scanf("%d", &numero1);
-scanf("%d", &numero2);
-printf("o resultado da soma e %d", soma(numero1, numero2));
-return 0;}
