@@ -14,15 +14,41 @@ Repositório público com dois objetivos complementares: apoiar meus estudos na 
 
 ## Objetivos
 
-### UTFPR — Linhas de Comando e Terminal
+### UTFPR — apoio de Linhas de Comando e Terminal
 
-Praticar o uso do terminal Linux, compilação, execução, organização de arquivos, processos, permissões e automação básica, usando programas pequenos escritos em C.
+Usar o terminal Linux como ferramenta de apoio para compilar, executar, depurar e analisar os programas escritos em C. O terminal é importante para a disciplina, mas não é o foco principal desta trilha.
 
 ### Curso introdutório de Engenharia Reversa
 
 Construir fundamentos de C, memória, arquitetura x86-64, Assembly e análise de binários ELF, sempre com exemplos próprios, locais e educativos.
 
-Os dois caminhos se complementam: o terminal e o C formam a base prática para compreender como programas são compilados, executados e analisados.
+Os dois caminhos se complementam. O foco principal é C, Assembly e arquitetura de computadores; o terminal entra como ambiente prático para compilar, executar e analisar os exercícios.
+
+## Trilha de vídeos
+
+Os vídeos abaixo são referências de estudo. Não assista passivamente: pause, faça previsões, reproduza os exemplos no VS Code e registre dúvidas no diretório `learning/`.
+
+### 1. Linguagem C
+
+- [Linguagem C: O Curso Definitivo — Aprenda do Zero em 10 Horas](https://www.youtube.com/watch?v=EIGAc5mdPp) — trilha principal de fundamentos.
+- [Vídeo complementar de C](https://youtu.be/Hpus3bJ1CFg?si=LoxyD1leZJFCZ1b9) — assistir junto da trilha principal e transformar os exemplos em exercícios próprios.
+- [Programação em C: Ponteiros e Alocação Dinâmica](https://www.youtube.com/watch?v=ar-YTOphapg) — ponteiros, endereços, arrays e memória dinâmica.
+
+### 2. Arquitetura e Assembly x86-64
+
+- [Assembly x86-64 — Introdução à Arquitetura](https://www.youtube.com/watch?v=lIVxtRmRAHY) — arquitetura, endianness e endereçamento de memória.
+- [Fundamentos de Assembly x86-64 — Aula 1](https://www.youtube.com/watch?v=Ej6U-qk0bdE) — introdução prática a Assembly x86-64 com NASM.
+
+### 3. Ordem recomendada
+
+1. Curso principal de C até funções, arrays e strings.
+2. Vídeo complementar de C, praticando os exemplos.
+3. Ponteiros e alocação dinâmica.
+4. Arquitetura de computadores: CPU, registradores, RAM, stack e heap.
+5. Assembly x86-64: `mov`, `add`, `sub`, `cmp`, `jmp`, `call` e `ret`.
+6. Relação entre C e Assembly usando GCC, GDB e `objdump`.
+
+O estudo de terminal deve acompanhar os exercícios, mas não substituir o estudo dos conceitos centrais.
 
 ## Método de estudo
 
