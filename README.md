@@ -30,7 +30,7 @@ Os vídeos abaixo são referências de estudo. Não assista passivamente: pause,
 
 ### 1. Linguagem C
 
-- [Linguagem C: O Curso Definitivo — Aprenda do Zero em 10 Horas](https://www.youtube.com/watch?v=EIGAc5mdPp) — trilha principal de fundamentos.
+- [Linguagem C: O Curso Definitivo — Aprenda do Zero em 10 Horas](https://www.youtube.com/watch?v=EIGAc5mdPpE&t=1758s)) — trilha principal de fundamentos.
 - [Vídeo complementar de C](https://youtu.be/Hpus3bJ1CFg?si=LoxyD1leZJFCZ1b9) — assistir junto da trilha principal e transformar os exemplos em exercícios próprios.
 - [Programação em C: Ponteiros e Alocação Dinâmica](https://www.youtube.com/watch?v=ar-YTOphapg) — ponteiros, endereços, arrays e memória dinâmica.
 
