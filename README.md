@@ -81,6 +81,8 @@ exercicios/
 │   ├── enunciado.md
 │   └── tentativas/
 ├── dia-02-memoria-ponteiros/
+│   ├── enunciado.md
+│   └── ponteiros.c
 ├── dia-03-arquitetura-assembly/
 └── dia-04-binarios/
 ```

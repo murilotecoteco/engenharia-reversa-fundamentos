@@ -31,11 +31,11 @@ Código-fonte, objeto e executável; processo de compilação; ELF; `gcc`, `file
 
 ## Estado de aprendizagem
 
-Já estudado: o que é C, código-fonte, compilador, executável, `main`, `#include <stdio.h>`, `printf`, tipos básicos, operadores e condicionais.
+Já estudado: o que é C, código-fonte, compilador, executável, `main`, `#include <stdio.h>`, `printf`, tipos básicos, operadores, condicionais, laços, funções, endereços, ponteiros, arrays, stack, heap, `malloc`, `free`, `NULL`, `sizeof` e strings terminadas em `\0`.
 
-Dificuldades a reforçar: ponto e vírgula, chaves, sintaxe de `printf`, divisão inteira entre dois `int` e organização de blocos.
+Dificuldades a reforçar: diferenciar o endereço guardado em um ponteiro do valor acessado com `*`, e distinguir o tamanho visível de uma string do espaço ocupado pelo terminador `\0`.
 
-Ponto atual: laços de repetição.
+Ponto atual: conclusão da revisão de memória e ponteiros; próximo bloco é arquitetura de computadores e Assembly.
 
 ## Retomada obrigatória
 
