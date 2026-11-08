@@ -84,6 +84,7 @@ exercicios/
 │   ├── enunciado.md
 │   └── ponteiros.c
 ├── dia-03-arquitetura-assembly/
+│   └── enunciado.md
 └── dia-04-binarios/
 ```
 

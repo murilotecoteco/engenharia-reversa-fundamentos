@@ -9,3 +9,10 @@ Record durable understanding, not every definition encountered.
 - **Example:** `int *p = &idade; *p = 30;` altera `idade` para `30`; para uma string de 3 caracteres, `strlen` vale 3 e o armazenamento inclui 4 posições.
 - **Related concepts:** stack, heap, `malloc`, `free`, `NULL`, arrays, aritmética de ponteiros, `sizeof`, `strlen`, terminador nulo
 
+## 2026-11-07: Fundamentos de arquitetura e Assembly x86-64
+
+- **Learner's explanation:** registradores são mais rápidos que a RAM; binário usa `0` e `1`; hexadecimal usa `0–9` e `A–F`; `ret` retorna de uma função; um rótulo é parecido com um nome, mas marca uma posição no fluxo.
+- **Corrected understanding:** A CPU executa instruções e usa registradores para trabalhar rapidamente com valores. `0x` indica hexadecimal. `mov` move um valor, `add` soma, `sub` subtrai, `cmp` compara sem necessariamente alterar o operando, `je` salta quando a comparação indica igualdade, `call` chama uma função e `ret` retorna ao ponto salvo. Rótulos marcam posições do programa; não são variáveis.
+- **Example:** `mov rax, 10`, `add rax, 5`, `sub rax, 3` deixa `RAX` com `12`; `cmp rax, 12` seguido de `je iguais` salta para o rótulo apenas se os valores forem iguais.
+- **Related concepts:** CPU, RAM, registradores, RAX, binário, hexadecimal, rótulos, fluxo de controle, x86-64
+

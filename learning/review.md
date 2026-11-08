@@ -16,3 +16,10 @@ Keep short retrieval prompts or review metadata for meaningful topics.
 - **Confidence:** Demonstrou compreensão na revisão interativa, sem precisar escrever código.
 - **Next review or exercise:** Arquitetura de computadores, representação binária, hexadecimal e Assembly x86-64.
 
+## 2026-11-07: Dia 3 — arquitetura e Assembly
+
+- **Recall prompt:** Explicar CPU, RAM, registradores, conversões simples entre binário, decimal e hexadecimal, e o papel de `mov`, `add`, `sub`, `cmp`, `je`, `call` e `ret`.
+- **Last reviewed:** 2026-11-07
+- **Confidence:** Demonstrou compreensão em revisão interativa conceitual, sem escrever código Assembly.
+- **Next review or exercise:** Compilação, formato ELF e ferramentas `file`, `strings` e `objdump`.
+

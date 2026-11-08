@@ -31,11 +31,11 @@ Código-fonte, objeto e executável; processo de compilação; ELF; `gcc`, `file
 
 ## Estado de aprendizagem
 
-Já estudado: o que é C, código-fonte, compilador, executável, `main`, `#include <stdio.h>`, `printf`, tipos básicos, operadores, condicionais, laços, funções, endereços, ponteiros, arrays, stack, heap, `malloc`, `free`, `NULL`, `sizeof` e strings terminadas em `\0`.
+Já estudado: o que é C, código-fonte, compilador, executável, `main`, `#include <stdio.h>`, `printf`, tipos básicos, operadores, condicionais, laços, funções, endereços, ponteiros, arrays, stack, heap, `malloc`, `free`, `NULL`, `sizeof`, strings terminadas em `\0`, CPU, RAM, registradores, binário, hexadecimal e instruções básicas de Assembly x86-64.
 
-Dificuldades a reforçar: diferenciar o endereço guardado em um ponteiro do valor acessado com `*`, e distinguir o tamanho visível de uma string do espaço ocupado pelo terminador `\0`.
+Dificuldades a reforçar: diferenciar o endereço guardado em um ponteiro do valor acessado com `*`, distinguir o tamanho visível de uma string do espaço ocupado pelo terminador `\0`, e praticar conversões entre binário, decimal e hexadecimal.
 
-Ponto atual: conclusão da revisão de memória e ponteiros; próximo bloco é arquitetura de computadores e Assembly.
+Ponto atual: Dia 3 concluído conceitualmente; próximo bloco é compilação, formato ELF e análise de binários próprios.
 
 ## Retomada obrigatória
 
