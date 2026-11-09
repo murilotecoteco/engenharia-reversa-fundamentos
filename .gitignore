@@ -1,12 +1,14 @@
-# Binários e artefatos de compilação
+# Executáveis e arquivos objeto gerados pela compilação em C/Assembly
 *.o
 *.out
-*.bin
+*.exe
 *.elf
-*.core
+ponteiros-analise
+
+# Diretórios e arquivos temporários de depuração
 core
-
-# Artefatos comuns de ferramentas
+core.*
 .gdb_history
-compile_commands.json
 
+# Cache comum de ferramentas locais
+.cache/
